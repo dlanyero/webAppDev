@@ -5,7 +5,7 @@ Crash Course in HTML
 
 * * * * *
 
-What is HTML? {.western}
+What is HTML? 
 -------------
 
 -   Hypertext Markup Language
@@ -15,7 +15,7 @@ What is HTML? {.western}
 -   Browser flows text in an unbroken paragraph until a markup tag is
     encountered in the text
 
-### Basic Example {.western}
+### Basic Example
 
 -   See
     [example]("Sample Document.md")
@@ -36,7 +36,7 @@ What is HTML? {.western}
 
  
 
-### Basic Content Formatting {.western}
+### Basic Content Formatting
 
 -   See a [comprehensive
     example](Sample.md)
@@ -59,7 +59,7 @@ What is HTML? {.western}
 
  
 
-### Markup Tags {.western}
+### Markup Tags 
 
 -   Tags appear in \< brackets \> and are not case sensitive
 
@@ -90,7 +90,7 @@ What is HTML? {.western}
 
  
 
-### Character Entities  {.western}
+### Character Entities 
 
 You may have wondered how \> and \< symbols get included on a web page,
 if they are used to define tags. For example, how do we get the browser
@@ -123,7 +123,7 @@ displayed on a web page. These are called **HTML character entities**.
 
  
 
-### HTML Versions and the \<!DOCTYPE\> element {.western}
+### HTML Versions and the \<!DOCTYPE\> element 
 
 The current HTML standard version is HTML 5.
 
@@ -135,7 +135,7 @@ There are a number of combinations of attributes you might see in a
 \<!DOCTYPE\> tag. Here are some of the possibilities:
 
 -   **HTML 5.0 :**\
-     `<!DOCTYPE     html> `{.western}
+     `<!DOCTYPE     html> `
 
 -   **HTML 4.0 Standards Compliant:** \
 
@@ -151,7 +151,7 @@ their documents before publishing them on the web.
 
  
 
-Layout with Tables {.western}
+Layout with Tables
 ------------------
 
 For a long time, web designers relied on tables to obtain sophisticated
@@ -175,7 +175,7 @@ layout, tables are still the simplest way to go in many cases.
 
  
 
-Links {.western}
+Links 
 -----
 
 The \<a\> tag is used to create a link. Format: \<a
@@ -199,7 +199,7 @@ href="*url*"\>*Hyperlink text*\</a\>
 
  
 
-### Relative vs. Absolute URL's {.western}
+### Relative vs. Absolute URL's
 
 A URL (Uniform Resource Locator) is the address of a resource on the
 web. It has the form
@@ -233,7 +233,7 @@ have the links work correctly.
 
  
 
-### URL Encoding {.western}
+### URL Encoding 
 
 Certain characters may not appear in the URL. Spaces and certain other
 punctuation characters \
@@ -257,7 +257,7 @@ name/value pair, must be encoded:\
 
  
 
-### Inline Links {.western}
+### Inline Links
 
 A long document can contain several screenfuls of text. An inline link
 is a link that takes the user to a specific spot in the target document
@@ -277,7 +277,7 @@ is a link that takes the user to a specific spot in the target document
 
  
 
-Using Images {.western}
+Using Images
 ------------
 
 The \<img /\> tag is used to include an image on a web page. Format:
@@ -313,7 +313,7 @@ browser will shrink or stretch the image to fit.
 
  
 
-### Relative vs. Absolute URL's {.western}
+### Relative vs. Absolute URL's 
 
 Often the full image URL ("absolute" URL) is not used if the image
 resides on the same server as the web page itself. Instead, a relative
@@ -340,16 +340,16 @@ URL's:
 
  
 
-### Laying out Text and Images {.western}
+### Laying out Text and Images
 
 Tables are very helpful when you need to control the position of text
 and graphics on a page.
 
-###   {.western}
+### 
 
  
 
-HTML Forms {.western}
+HTML Forms
 ----------
 
 An HTML form is a region of a web page that contains data-entry
@@ -430,7 +430,7 @@ Note features of this page:
 -   For a review of other input areas, see
     [http://www.w3schools.com/html/html\_forms.asp](http://www.w3schools.com/html/html_forms.asp)
 
-### Creating HTML Prototypes {.western}
+### Creating HTML Prototypes
 
 When designing web applications, it is common for developers to
 construct HTML prototypes.

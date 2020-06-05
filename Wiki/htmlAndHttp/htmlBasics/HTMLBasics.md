@@ -16,6 +16,7 @@ What is HTML?
     encountered in the text
 
 ### Basic Example
+-----------------
 
 -   See
     [example]("Sample Document.md")
@@ -37,6 +38,7 @@ What is HTML?
  
 
 ### Basic Content Formatting
+----------------------------
 
 -   See a [comprehensive
     example](Sample.md)
@@ -60,6 +62,7 @@ What is HTML?
  
 
 ### Markup Tags 
+----------------
 
 -   Tags appear in \< brackets \> and are not case sensitive
 
@@ -90,7 +93,8 @@ What is HTML?
 
  
 
-### Character Entities 
+### Character Entities
+----------------------
 
 You may have wondered how \> and \< symbols get included on a web page,
 if they are used to define tags. For example, how do we get the browser
@@ -123,7 +127,8 @@ displayed on a web page. These are called **HTML character entities**.
 
  
 
-### HTML Versions and the \<!DOCTYPE\> element 
+### HTML Versions and the \<!DOCTYPE\> element
+----------------------------------------------
 
 The current HTML standard version is HTML 5.
 
@@ -200,6 +205,7 @@ href="*url*"\>*Hyperlink text*\</a\>
  
 
 ### Relative vs. Absolute URL's
+--------------------------------
 
 A URL (Uniform Resource Locator) is the address of a resource on the
 web. It has the form
@@ -234,6 +240,7 @@ have the links work correctly.
  
 
 ### URL Encoding 
+----------------
 
 Certain characters may not appear in the URL. Spaces and certain other
 punctuation characters \
@@ -258,6 +265,7 @@ name/value pair, must be encoded:\
  
 
 ### Inline Links
+----------------
 
 A long document can contain several screenfuls of text. An inline link
 is a link that takes the user to a specific spot in the target document
@@ -314,6 +322,7 @@ browser will shrink or stretch the image to fit.
  
 
 ### Relative vs. Absolute URL's 
+-------------------------------
 
 Often the full image URL ("absolute" URL) is not used if the image
 resides on the same server as the web page itself. Instead, a relative
@@ -341,6 +350,7 @@ URL's:
  
 
 ### Laying out Text and Images
+------------------------------
 
 Tables are very helpful when you need to control the position of text
 and graphics on a page.
@@ -431,6 +441,7 @@ Note features of this page:
     [http://www.w3schools.com/html/html\_forms.asp](http://www.w3schools.com/html/html_forms.asp)
 
 ### Creating HTML Prototypes
+----------------------------
 
 When designing web applications, it is common for developers to
 construct HTML prototypes.

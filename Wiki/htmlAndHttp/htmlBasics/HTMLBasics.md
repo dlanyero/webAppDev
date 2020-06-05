@@ -15,8 +15,8 @@ What is HTML?
 -   Browser flows text in an unbroken paragraph until a markup tag is
     encountered in the text
 
-### Basic Example
------------------
+Basic Example
+------------------
 
 -   See
     [example]("Sample Document.md")

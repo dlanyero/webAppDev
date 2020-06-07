@@ -188,7 +188,7 @@ href="*url*"\>*Hyperlink text*\</a\>
     clicks the underlined *hyperlink text,* the browser navigates to the
     *url* and displays the new document.\
      \
-     Example: \<a href="http://www.bju.edu"\> Click here to go to the BJU
+     Example: <a href="http://www.bju.edu"\> Click here to go to the BJU
     home page\</a\>\
       
 

@@ -9,7 +9,7 @@ Mathematical Sciences, College of Arts and Science, in the early 1980s.
 Its purpose is to prepare students for graduate study in the field,
 employment in industry, and full-time Christian service. In addition to
 its [degree
-programs](https://protect.bju.edu/cps/courses/cps404/notes/HTMLBasics/majors.aspx),
+programs](https://www.bju.edu/academics/programs/),
 the department offers training for students, staff, and members of the
 community who wish to improve their computer skills. Since its
 inception, the department has helped introduce local area networking to

@@ -1,16 +1,6 @@
-[Home](https://protect.bju.edu/cps/courses/cps404/index.html)
-[Schedule](https://protect.bju.edu/cps/courses/cps404/schedule.html)
-[Resources](https://protect.bju.edu/cps/courses/cps404/Resources.html)
-[Dr. Schaub](https://protect.bju.edu/cps/courses/cps404/Schaub.html)
-[Syllabus](https://protect.bju.edu/cps/courses/cps404/docs/CpS404Syllabus.pdf)
-[Grades](https://bju.instructure.com/courses/11957/grades)
-[Submit](https://protect.bju.edu/cps/submit/upload/)
 
-© 2020. All rights reserved.
 
-### [CpS 404](https://protect.bju.edu/cps/courses/cps404/index.html "Home") Internet App Development {.masthead-title}
-
-The HTTP Protocol {.page-title}
+The HTTP Protocol 
 =================
 
 Browsers (and other User Agents) talk to web servers using the HTTP

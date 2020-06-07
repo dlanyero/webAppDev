@@ -243,7 +243,7 @@ have the links work correctly.
 Certain characters may not appear in the URL. Spaces and certain other
 punctuation characters \
  \
- `` < > % # { } | \ ^ [ ] ` " ``{.western}\
+ `` < > % # { } | \ ^ [ ] ` " ``\
  \
  must be encoded using a special escape sequence: a percent symbol
 followed by the character's UNICODE number in two hexadecimal digits.
@@ -257,7 +257,7 @@ encode a space in a URL. \
  In addition, the following characters, when appearing in a query string
 name/value pair, must be encoded:\
  \
- `; / ? : @ & = + , $`{.western}\
+ `; / ? : @ & = + , $'\
   
 
  

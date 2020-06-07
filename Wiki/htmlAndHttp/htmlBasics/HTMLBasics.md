@@ -300,7 +300,7 @@ The \<img /\> tag is used to include an image on a web page. Format:
 -   Note this is usually written as a self-closing tag \
       
 
--   Example: \<img src="http://www.bju.edu/images/bluebar.gif" /\>
+-   Example: \<img src="https://www.bju.edu/galleries/flickr-72157656321622504/large/21249929200_83a847cb7e_o.jpg?" /\>
 
 The width and height attributes can be used to specify the size of the
 image.

@@ -19,7 +19,7 @@ Basic Example
 ------------------
 
 -   See
-    [example](Sample Document.md)
+    [example](Sample%20Document.md)
 
 -   Begins with a declaration specifying which HTML version
 

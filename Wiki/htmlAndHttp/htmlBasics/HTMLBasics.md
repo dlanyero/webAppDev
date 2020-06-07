@@ -85,8 +85,8 @@ Basic Example
 -   Some tags can contain attributes: \
      \
      \<p align="right"\>This is a right-aligned paragraph.\</p\>\
-     <a href="http://www.bju.edu">This is a link to the BJU home
-    page</a>
+     \<a href="http://www.bju.edu" \>This is a link to the BJU home
+    page\</a\>
      \
      An attribute consists of a name=value pair 
 

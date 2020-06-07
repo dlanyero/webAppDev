@@ -1,7 +1,8 @@
 
 
-The HTTP Protocol 
-=================
+# The HTTP Protocol 
+-----------------
+
 
 Browsers (and other User Agents) talk to web servers using the HTTP
 protocol.

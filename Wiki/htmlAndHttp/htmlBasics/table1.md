@@ -1,7 +1,7 @@
 
 
   day    |  weight
-  sunday  | 2.5
-  monday  3.5
+  sunday | 2.5
+  monday |3.5
 
 

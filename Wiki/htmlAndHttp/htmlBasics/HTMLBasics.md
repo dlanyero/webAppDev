@@ -209,7 +209,7 @@ A URL (Uniform Resource Locator) is the address of a resource on the
 web. It has the form
 
 An absolute URL contains all of these elements (ex:
-http://www.bju.edu/index.asp). The browser must have an absolute URL to
+http://www.bju.edu). The browser must have an absolute URL to
 be able to load a document.
 
 Often, hyperlinks in an HTML page omit the protocol and web server name

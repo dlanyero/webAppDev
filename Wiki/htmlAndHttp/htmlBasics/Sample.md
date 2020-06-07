@@ -1,6 +1,3 @@
-[About](https://protect.bju.edu/cps/courses/cps404/notes/HTMLBasics/sample.html#about)
-|
-[Facilities](https://protect.bju.edu/cps/courses/cps404/notes/HTMLBasics/sample.html#facilities)
 
 About the Department
 ====================

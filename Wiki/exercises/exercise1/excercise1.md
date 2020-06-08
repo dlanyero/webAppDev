@@ -1,17 +1,6 @@
-[Home](https://protect.bju.edu/cps/courses/cps404/index.html)
-[Schedule](https://protect.bju.edu/cps/courses/cps404/schedule.html)
-[Resources](https://protect.bju.edu/cps/courses/cps404/Resources.html)
-[Dr. Schaub](https://protect.bju.edu/cps/courses/cps404/Schaub.html)
-[Syllabus](https://protect.bju.edu/cps/courses/cps404/docs/CpS404Syllabus.pdf)
-[Grades](https://bju.instructure.com/courses/11957/grades)
-[Submit](https://protect.bju.edu/cps/submit/upload/)
 
-© 2020. All rights reserved.
-
-### [CpS 404](https://protect.bju.edu/cps/courses/cps404/index.html "Home") Internet App Development {.masthead-title}
-
-Exercise 1: HTML Prototyping {.page-title}
-============================
+# Exercise 1: HTML Prototyping 
+-------------------------------
 
 **Estimated time to complete: 4-6 hours**
 
@@ -28,14 +17,14 @@ You will want a good HTML/JavaScript editor for this assignment. I
 recommend [Visual Studio Code](https://code.visualstudio.com/), but you
 can use any programmer’s editor you wish.
 
-Basic Prototype (40 points)
+Basic Prototype 
 ---------------------------
 
 Construct the following pages in HTML:
 
-### index.html {#indexhtml}
+### index.html
 
-![](./Exercise%201_%20HTML%20Prototyping%20·%20CpS%20404_files/index.jpg)
+![](https://github.com/dlanyero/webAppDev/blob/master/Wiki/exercises/exercise1/index.jpg)
 
 Notes:
 
@@ -51,9 +40,9 @@ Notes:
 -   Use CSS or a table to center the image and the content in the
     browser, as shown.
 
-### editpost.html {#editposthtml}
+### editpost.html 
 
-![](./Exercise%201_%20HTML%20Prototyping%20·%20CpS%20404_files/editpost.jpg)
+![](https://github.com/dlanyero/webAppDev/blob/master/Wiki/exercises/exercise1/editpost.jpg)
 
 Notes:
 
@@ -77,9 +66,9 @@ Notes:
 
 -   Use a two-column borderless table to lay out the form.
 
-### previewpost.html {#previewposthtml}
+### previewpost.html
 
-![](./Exercise%201_%20HTML%20Prototyping%20·%20CpS%20404_files/previewpost.jpg)
+![](https://github.com/dlanyero/webAppDev/blob/master/Wiki/exercises/exercise1/previewpost.jpg)
 
 Notes:
 
@@ -93,7 +82,7 @@ Notes:
     using a site like https://www.10bestdesign.com/dirtymarkup/ to clean
     up your markup (indent with spaces, not tabs).
 
-Paypal Integration (10 points)
+Paypal Integration 
 ------------------------------
 
 Creating sites that allow users to make payments is an important
@@ -150,35 +139,7 @@ payments with fake credit card numbers.
 Submission
 ----------
 
--   Zip up the HTML/image/stylesheet (if any) files in an archive named
-    htmlproto.zip. The zip file should have the files in the top level
-    (no subdirectories). Submit htmlproto.zip electronically using the
-    online submission system (find the Submit link on the course home
-    page).
+-  Upload your code to github and create a brief report indicating what you were able to accomplish, what works and what does not. 
 
--   Create a brief report using a word processor, and upload a PDF
-    version of it named report.pdf. The report should include the
-    following elements:
-
-    -   Title page
-    -   Number of hours you spent on the exercise
-    -   What works and what doesn’t
-    -   Signed Academic Integrity Report (see below)
-    -   Screen shots of rendered web pages
-
-### Academic Integrity Report
-
-By affixing my signature below, I certify that the accompanying work
-represents my own intellectual effort. Furthermore, I have received no
-outside help other than what is documented below and/or in program
-source code comments.
-
-* * * * *
-
-Signature
-
-  ------ -------------------- ---------------- ------------
-  Date   Name / Email / URL   Nature of help   Time spent
-  ------ -------------------- ---------------- ------------
 
 

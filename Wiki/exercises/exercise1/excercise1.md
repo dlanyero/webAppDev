@@ -40,9 +40,9 @@ Notes:
 -   Use CSS or a table to center the image and the content in the
     browser, as shown.
 
-### editpost.html {#editposthtml}
+### editpost.html 
 
-![](./Exercise%201_%20HTML%20Prototyping%20·%20CpS%20404_files/editpost.jpg)
+![](https://github.com/dlanyero/webAppDev/blob/master/Wiki/exercises/exercise1/editpost.jpg)
 
 Notes:
 

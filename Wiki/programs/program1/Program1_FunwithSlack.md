@@ -13,35 +13,14 @@
 Program 1: Fun with Slack {.page-title}
 =========================
 
--   [Objectives](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#objectives)
--   [Overview](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#overview)
--   [Specification](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#specification)
-    -   [Commands](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#commands)
-        -   [show-channels](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#show-channels)
-        -   [show-users](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#show-users)
-        -   [post](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#post)
-        -   [get-posts](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#get-posts)
--   [Warmup](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#warmup)
--   [Max 75
-    Level](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#max-75-level)
--   [Max 85
-    Level](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#max-85-level)
--   [Max 95
-    Level](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#max-95-level)
--   [Max 105
-    Level](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#max-105-level)
--   [Style
-    Requirements](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#style-requirements)
--   [Grading
-    Criteria](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#grading-criteria)
--   [Submission](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#submission)
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#objectives)Objectives
+
+Objectives
 ==========================================================================================
 
 -   Develop a command-line Slack client in Node.js
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#overview)Overview
+Overview
 ======================================================================================
 
 Slack is a collaboration platform that is a competitor to Microsoft
@@ -58,7 +37,7 @@ without relying on someone else having written a Node.js library for the
 service. However, you may use the request module to streamline your HTTP
 requests.
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#specification)Specification
+Specification
 ================================================================================================
 
 Create a program named slack.js. When run without any command line
@@ -73,10 +52,10 @@ empty, display an error message and exit immediately.
 If SLACK\_TOKEN is present, slack.js should perform the command
 indicated by its command line arguments. The commands are given below.
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#commands)Commands
+Commands
 --------------------------------------------------------------------------------------
 
-### [](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#show-channels)show-channels
+show-channels
 
 ``` {.highlight}
 node slack.js  show-channels
@@ -92,15 +71,15 @@ general       Course announcements and work-based matters
 random        Non-work banter and water cooler conversation
 ```
 
-### [](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#show-users)show-users
+show-users
 
-``` {.highlight}
+``` 
 node slack.js  show-users
 ```
 
 The show-users option should display a list of users:
 
-``` {.highlight}
+``` 
 User          Name
 ------------  -------------------------------------------------
 fred          Fred Jones

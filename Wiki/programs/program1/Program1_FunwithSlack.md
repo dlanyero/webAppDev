@@ -1,14 +1,4 @@
-[Home](https://protect.bju.edu/cps/courses/cps404/index.html)
-[Schedule](https://protect.bju.edu/cps/courses/cps404/schedule.html)
-[Resources](https://protect.bju.edu/cps/courses/cps404/Resources.html)
-[Dr. Schaub](https://protect.bju.edu/cps/courses/cps404/Schaub.html)
-[Syllabus](https://protect.bju.edu/cps/courses/cps404/docs/CpS404Syllabus.pdf)
-[Grades](https://bju.instructure.com/courses/11957/grades)
-[Submit](https://protect.bju.edu/cps/submit/upload/)
 
-© 2020. All rights reserved.
-
-### [CpS 404](https://protect.bju.edu/cps/courses/cps404/index.html "Home") Internet App Development {.masthead-title}
 
 Program 1: Fun with Slack {.page-title}
 =========================
@@ -57,14 +47,14 @@ Commands
 
 show-channels
 
-``` {.highlight}
+``` 
 node slack.js  show-channels
 ```
 
 The show-channels option should display a list of channel names and
 topics. Format the output as follows:
 
-``` {.highlight}
+``` 
 Channel name  Topic
 ------------  -------------------------------------------------
 general       Course announcements and work-based matters
@@ -86,24 +76,24 @@ fred          Fred Jones
 slackbot      slackbot
 ```
 
-### [](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#post)post
+post
 
-``` {.highlight}
+``` 
 node slack.js  post <channel-name> <message>
 ```
 
 The post option should post a message to the specified channel. For
 example:
 
-``` {.highlight}
+``` 
 node slack.js  post general "This is a nifty utility."
 ```
 
 On successful post, display “Message successfully posted.”
 
-### [](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#get-posts)get-posts
+get-posts
 
-``` {.highlight}
+``` 
 node slack.js  get-posts <channel-name> [<search-word>]
 ```
 
@@ -114,13 +104,13 @@ word; otherwise, display all messages.
 
 Example:
 
-``` {.highlight}
+``` 
 node slack.js  get-posts general
 ```
 
 displays all messages in the general channel, while
 
-``` {.highlight}
+``` 
 node slack.js  get-posts random cool
 ```
 
@@ -128,13 +118,13 @@ displays messages in the random channel containing the word ‘cool’.
 
 Format the output with the username and the message text as follows:
 
-``` {.highlight}
+``` 
 @fred: It's a grand day
 
 @joliet: What's up?
 ```
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#warmup)Warmup
+Warmup
 ==================================================================================
 
 1.  Read about the [Slack API](https://api.slack.com/web) and then set
@@ -168,14 +158,14 @@ Format the output with the username and the message text as follows:
     method and displays the id and name of each channel to work out the
     techniques you’ll need. Use the HTTP POST technique.
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#max-75-level)Max 75 Level
+Level 2
 ==============================================================================================
 
 Implement the *show-channels*, *show-users*, and *post* commands.
 
 Detect and handle errors gracefully.
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#max-85-level)Max 85 Level
+Level 3
 ==============================================================================================
 
 In addition to the Max 75 Level, implement the *get-posts* command. When
@@ -218,7 +208,7 @@ s.getChannels(function(err, channels) {
 });
 ```
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#max-105-level)Max 105 Level
+Max Level
 ================================================================================================
 
 Read about promises and async/await in these tutorials:
@@ -237,7 +227,7 @@ async/await to improve your code in the following ways:
 
 Call these file versions slack-xc.js and slack-api-xc.js.
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#style-requirements)Style Requirements
+Style Requirements
 ==========================================================================================================
 
 -   Put a comment at the top of the program with your name, the
@@ -249,22 +239,14 @@ Call these file versions slack-xc.js and slack-api-xc.js.
 -   Write a brief header comment for all (named) functions that you
     define
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#grading-criteria)Grading Criteria
+Grading Criteria
 ======================================================================================================
 
 See the course syllabus for grading criteria.
 
-[](https://protect.bju.edu/cps/courses/cps404/programs/program1.html#submission)Submission
+Submission
 ==========================================================================================
 
--   Submit slack.js (and slack-api.js, if you did it) electronically
-
--   Create a report using [this
-    template](https://protect.bju.edu/cps/courses/cps404/docs/ProgramReports/ReportTemplate.docx)
-    and fill out the information requested. Delete the My Test Cases
-    section, and provide screen shots in the Official Tests section
-    demonstrating that your program works. Include a couple of error
-    handling scenarios. Save your report as report.pdf and upload
-    electronically.
+-   Create a report indicating what you were able to complete and submit your code to upload your code to github
 
 

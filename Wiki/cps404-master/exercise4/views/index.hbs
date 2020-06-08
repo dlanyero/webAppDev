@@ -1,0 +1,12 @@
+
+    {{#if errmsg}}
+    <div class="alert alert-warning">{{{errmsg}}}</div>
+    {{/if}}
+    
+    <h1>Login, Please</h1>
+    <form action="/login" method="post">
+        Username: <input type="text" name="username" value={{username}}> 
+        Password: <input type="password" name="pass"> 
+        <input type="submit" value="Login">
+        <input type="hidden" name="_csrf" value="{{csrf}}">
+    </form>

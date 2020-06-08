@@ -22,9 +22,9 @@ Basic Prototype
 
 Construct the following pages in HTML:
 
-### index.html {}
+### index.html
 
-![](./Exercise%201_%20HTML%20Prototyping%20·%20CpS%20404_files/index.jpg)
+![]()
 
 Notes:
 

@@ -13,8 +13,7 @@ Prerequisites
 =============
 
 -   Review the course slides on the Node.js execution model
--   Skim chapter 7 of *Pro Node.js for Developers* (see
-    [Resources](https://protect.bju.edu/cps/courses/cps404/Resources)),
+-   Skim chapter 7 of *Pro Node.js for Developers*,
     and chapter 11 pp. 178 - 183.
 
 Instructions

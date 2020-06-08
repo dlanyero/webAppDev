@@ -139,35 +139,7 @@ payments with fake credit card numbers.
 Submission
 ----------
 
--   Zip up the HTML/image/stylesheet (if any) files in an archive named
-    htmlproto.zip. The zip file should have the files in the top level
-    (no subdirectories). Submit htmlproto.zip electronically using the
-    online submission system (find the Submit link on the course home
-    page).
+-  Upload your code to github and create a brief report indicating what you were able to accoomplish, what works and what does not. 
 
--   Create a brief report using a word processor, and upload a PDF
-    version of it named report.pdf. The report should include the
-    following elements:
-
-    -   Title page
-    -   Number of hours you spent on the exercise
-    -   What works and what doesn’t
-    -   Signed Academic Integrity Report (see below)
-    -   Screen shots of rendered web pages
-
-### Academic Integrity Report
-
-By affixing my signature below, I certify that the accompanying work
-represents my own intellectual effort. Furthermore, I have received no
-outside help other than what is documented below and/or in program
-source code comments.
-
-* * * * *
-
-Signature
-
-  ------ -------------------- ---------------- ------------
-  Date   Name / Email / URL   Nature of help   Time spent
-  ------ -------------------- ---------------- ------------
 
 

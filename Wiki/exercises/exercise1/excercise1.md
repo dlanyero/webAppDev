@@ -24,7 +24,7 @@ Construct the following pages in HTML:
 
 ### index.html
 
-![]()
+![](https://github.com/dlanyero/webAppDev/blob/master/Wiki/exercises/exercise1/index.jpg)
 
 Notes:
 

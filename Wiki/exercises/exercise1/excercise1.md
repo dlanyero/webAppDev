@@ -66,9 +66,9 @@ Notes:
 
 -   Use a two-column borderless table to lay out the form.
 
-### previewpost.html {#previewposthtml}
+### previewpost.html
 
-![](./Exercise%201_%20HTML%20Prototyping%20·%20CpS%20404_files/previewpost.jpg)
+![](https://github.com/dlanyero/webAppDev/blob/master/Wiki/exercises/exercise1/previewpost.jpg)
 
 Notes:
 

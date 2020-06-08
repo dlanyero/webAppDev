@@ -17,7 +17,7 @@ You will want a good HTML/JavaScript editor for this assignment. I
 recommend [Visual Studio Code](https://code.visualstudio.com/), but you
 can use any programmer’s editor you wish.
 
-Basic Prototype (40 points)
+Basic Prototype 
 ---------------------------
 
 Construct the following pages in HTML:
@@ -82,7 +82,7 @@ Notes:
     using a site like https://www.10bestdesign.com/dirtymarkup/ to clean
     up your markup (indent with spaces, not tabs).
 
-Paypal Integration (10 points)
+Paypal Integration 
 ------------------------------
 
 Creating sites that allow users to make payments is an important

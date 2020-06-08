@@ -1,7 +1,7 @@
 
 
-Program 1: Fun with Slack {.page-title}
-=========================
+Program 1: Fun with Slack 
+--------------------------
 
 
 

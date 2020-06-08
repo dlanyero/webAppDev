@@ -139,7 +139,7 @@ payments with fake credit card numbers.
 Submission
 ----------
 
--  Upload your code to github and create a brief report indicating what you were able to accoomplish, what works and what does not. 
+-  Upload your code to github and create a brief report indicating what you were able to accomplish, what works and what does not. 
 
 
 

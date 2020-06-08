@@ -163,12 +163,10 @@ layout, tables are still the simplest way to go in many cases.
 
 -   See [example
     \#1](table1.md).
-    A simple table with borders. \
-
-      
+    A simple table with borders. \     
 
 -   See [example
-    \#3](table2.md).
+    \#2](table3.md).
     Tables can be used to control the formatting of an entire page.
 
  

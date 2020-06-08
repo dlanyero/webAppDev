@@ -14,8 +14,7 @@ Prerequisites
 
 -   Install visio studio code [VSCode](https://code.visualstudio.com/)
     page.
--   Read Chapter 2 of *Pro Node.js for Developers* (see
-    [Resources](https://protect.bju.edu/cps/courses/cps404/Resources.html))
+-   Read Chapter 2 of *Pro Node.js for Developers* 
     through p. 15.
 
 Instructions

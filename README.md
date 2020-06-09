@@ -1,2 +1,2 @@
-# Automation
-A collection of automation scripts
+# Gospel Bus
+Project description to be added here
